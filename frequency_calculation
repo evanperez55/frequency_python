@@ -24,3 +24,5 @@ with open('datafile.din.txt', 'r') as f:
 	#Calculate frequency
 	freq_reads = reads / total
 	freq_writes = writes / total
+	
+	#
